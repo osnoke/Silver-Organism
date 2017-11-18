@@ -1,0 +1,108 @@
+body {
+	background-color: #25272F;
+	font-family: helvetica, arial, sans-serif;
+	font-weight: bold;
+	color: white;
+}
+
+h2 {
+	font-size: 18pt;
+	margin-bottom: 15px;
+}
+
+#mainContainer {
+	max-width: 900px;
+	margin: auto auto;
+}
+
+#usersTable {
+	margin: 10px auto;
+	font-weight: normal;
+	width: 100%;
+}
+
+#usersTable th {
+	border-bottom: 1px solid #F6F6F6;
+	padding: 2px;
+	text-align: center;
+}
+
+#usersTable td {
+	padding: 2px;
+	text-align: center;
+}
+
+.chartTotal {
+	font-size: 30pt;
+	text-align: right;
+}
+.eventHours {
+	font-size: 10pt;
+	font-style: italic;
+	text-align: right;
+	margin-right: 10px;
+}
+
+.eventDate {
+	margin-top: 40px;
+}
+
+.eventDay {
+	font-size: 55pt;
+}
+
+.tile {
+	width: 170px;
+	height: 140px;
+	margin: 5px;
+	padding: 20px;
+	float: left;
+}
+
+.tileDubble {
+	width: 390px;
+	height: 140px;
+	margin: 5px;
+	padding: 20px;
+	float: left;
+}
+
+.tileList a {
+	color: white;
+	text-decoration: none;
+}
+
+.tileList li {
+	margin-bottom: 5px;
+	margin-left: 10px;
+}
+
+.tileList ul li{
+	list-style-type: disc;
+}
+
+.tileList ol li {
+	list-style-type: decimal;
+}
+
+.green {
+	background-color: #13B2A3;
+}
+
+.red {
+	background-color: #F16F51;
+}
+
+.yellow {
+	background-color: #FDB45C;
+}
+
+.lightgrey {
+	background-color: #F6F6F6;
+	color: black;
+}
+
+.cityImage {
+	background-image: url("randomImage");
+	font-size: 20pt;
+}
