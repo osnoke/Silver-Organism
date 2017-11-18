@@ -1,2 +1,1 @@
-You dont have to read me 
-just do your beesnees
+You dont have to read me.
